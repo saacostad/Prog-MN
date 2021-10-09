@@ -1,0 +1,4 @@
+Nombre: Santiago Andrés Acosta Diaz.
+
+Este repositorio será utilizado para la entrega de trabajos y exámenes para la clase de
+Programación e introducción a los métodos numéricos 2021-2.
